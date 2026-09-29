@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-prepositional-suitcase-compactor
-description: "Unpack prepositional pileups and of-chains into compact compound nouns and possessives." Use this when working on fitzpatrick prepositional suitcase compactor.
+description: "Unpack prepositional pileups and of-chains into compact compound nouns and possessives. Use this when working on fitzpatrick prepositional suitcase compactor."
 category: "Writing & Communication"
 triggers:
   - "prepositional pileup"
