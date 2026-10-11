@@ -9,7 +9,7 @@ triggers:
   - "compact noun phrase"
   - "trim of-phrases"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
